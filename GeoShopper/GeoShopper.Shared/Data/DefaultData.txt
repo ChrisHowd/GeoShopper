@@ -1,0 +1,403 @@
+﻿[	{"itemMyMasterShoppingList" : [
+			{ "item": {
+				"itemID": "1",
+				"itemName": "Bread",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Loaf",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "2",
+				"itemName": "Cheese",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Pound",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "3",
+				"itemName": "Cereal",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Box",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "4",
+				"itemName": "Chicken",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Pound",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "5",
+				"itemName": "Eggs",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Dozen",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "6",
+				"itemName": "Fresh Fruit",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Pound",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "7",
+				"itemName": "Hamberger",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Pound",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "8",
+				"itemName": "Jam/Jelly",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Jar",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "9",
+				"itemName": "Juice",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Bottle",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "10",
+				"itemName": "Fresh Vegitables",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Pound",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "11",
+				"itemName": "Pasta",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Box",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "12",
+				"itemName": "Peanut Butter",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Jar",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "13",
+				"itemName": "Milk",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Carton",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "14",
+				"itemName": "Soda",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Can",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "15",
+				"itemName": "Tea Bags",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "16",
+				"itemName": "Coffee",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "17",
+				"itemName": "Chips",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Bag",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "18",
+				"itemName": "Sugar",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Bag",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "19",
+				"itemName": "Salt",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "20",
+				"itemName": "Spices",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Jar",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "21",
+				"itemName": "Rice",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "22",
+				"itemName": "Soup",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Can",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "23",
+				"itemName": "Nuts",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "24",
+				"itemName": "Crackers",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Box",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "25",
+				"itemName": "Flour",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Bag",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "26",
+				"itemName": "Yogurt",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "27",
+				"itemName": "Gum",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Pack",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "28",
+				"itemName": "Candy",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			},
+			{ "item": {
+				"itemID": "99",
+				"itemName": "",
+				"itemType": "Food",
+				"itemStoreIDs": ["1"],
+				"itemStoreCategory": "Grocery",
+				"itemUnits": "Container",
+				"itemQuantity": "",
+				"itemPurchaseHistory": [
+					{}
+				]
+			}
+		],
+		"description": "This is my master list of all the items that I shop for."
+	},
+	{"itemMyShoppingList" : [
+			{}
+		],
+		"description": "This is my current shopping list (items that I need)."
+	},
+	{"storeDefaultItemsLists" : [
+			{}
+		],
+		"description": "These are the default shopping item lists for each category of store (items typically purchased at a type of store)."
+	},
+	{"storeStoresList": [
+			{
+				"store": {
+					"storeID": "1",
+					"storeCategory": "Grocery",
+					"storeName": "Safeway",
+					"storeLocation": [
+						{
+							"storeAddress": ["630 228th Ave NE", ""],
+							"storeTown": "Sammamish",
+							"storeState": "Washington",
+							"storeZIP": "98074"
+							"storeCountry: "US"
+							"storeGPSLongitudeLatitude": ["47.615261", "-122.033813"]
+						}
+					],
+					"description": ""
+				}
+			},
+			{
+				"store": {
+					"storeID": "2",
+					"storeCategory": "Drug Store",
+					"storeName": "Bartell Drugs",
+					"storeLocation": [
+						{
+							"storeAddress": ["526 228th Ave NE", ""],
+							"storeTown": "Sammamish",
+							"storeState": "Washington",
+							"storeZIP": "98074"
+							"storeCountry: "US"
+							"storeGPSLongitudeLatitude": ["47.615261", "-122.033813"]
+						}
+					],
+					"description": ""
+				}
+			}
+		],
+		"description": "these are the default stores"
+	}
+]
